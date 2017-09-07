@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Hydeout
+title: ZNJ
 excerpt_separator:  <!--more-->
 ---
 
@@ -9,7 +9,7 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
 
 ### Keep It Simple
 
-周宁佳真帅
+ZNJ is so handsome;
 
 ### Customization
 
