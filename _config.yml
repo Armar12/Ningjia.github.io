@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            莫言鬼语
 tagline:          'A handsome guy'
-description:      #'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      '闲人一个，有那么一点梦想，不知何时才能实现'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -15,7 +15,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           '周宁佳'
-  url:            #https://twitter.com/fongandrewc
+  url:            
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -34,4 +34,4 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://armar12.github.io
