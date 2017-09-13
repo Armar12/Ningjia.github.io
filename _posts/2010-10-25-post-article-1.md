@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "这是一个目前位置还很low的网站"
+title: "这是一个目前为止还很low的网站"
 date: 2017-09-07
 categories:
   - Post
